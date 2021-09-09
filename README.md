@@ -5,7 +5,7 @@ Generator Password With Another Language
 pkg install python
 pkg install github
 git clone github.com/Vanilla128/GenPassV2
-cd GenPassV2/GenPassLang
+cd GenPassV2
 ```
 # Run File
 English:
